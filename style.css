@@ -1,0 +1,9 @@
+h1, p {
+  font-family: Lato;
+}
+.item {
+  background-color:#c3b6ff;
+  margin:10px;
+  padding:20px;
+  border-radius:50px;
+}
